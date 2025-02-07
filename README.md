@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hatice</h1>
 <h3 align="center">I'm a software developer currently learning Ruby on Rails and expanding my skills in backend development. You can reach out to me on LinkedIn for any questions or suggestions!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haticecelikk&label=Profile%20views&color=0e75b6&style=flat" alt="haticecelikk" /> </p>
-
 - 🔭 I’m currently working on [Photo-App](https://github.com/HaticeCelikk/Photo-App)
 
 - 📫 How to reach me **haticelik119@gmail.com**
